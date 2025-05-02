@@ -1,0 +1,12 @@
+.button{
+    padding: 5px 5px;  
+    border-radius: 2px;
+    border: 1px solid gray;
+}
+.page{
+    border: none;
+    text-decoration: underline;
+    background:none;
+    color: rebeccapurple;
+
+}
