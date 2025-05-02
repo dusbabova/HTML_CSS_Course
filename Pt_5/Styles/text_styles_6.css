@@ -1,0 +1,23 @@
+p{
+    font-family: Arial;
+    margin: 3px;
+    width: 520px;
+}
+
+.sender{
+    font-weight: bold;
+    margin: 3px;
+}
+
+.email{
+    color: gray;
+    font-weight: normal;
+}
+
+.text{
+    margin-bottom: 15px;
+}
+
+.address{
+    color:lightskyblue
+}

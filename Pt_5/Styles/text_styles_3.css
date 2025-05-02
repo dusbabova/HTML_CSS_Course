@@ -1,0 +1,22 @@
+p{
+    font-family: Arial;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.hook{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px 0px;
+}
+
+.catch{
+    margin: 14px 0px 14px;
+}
+
+.link{
+    font-size: 14px;
+}

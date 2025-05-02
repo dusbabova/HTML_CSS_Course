@@ -1,0 +1,23 @@
+p{
+    font-family: Verdana;
+    width: 280px;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0px;
+}
+
+.subtitle{
+    color:grey;
+    margin: 3px 0px;
+}
+
+button{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 6px;
+}
