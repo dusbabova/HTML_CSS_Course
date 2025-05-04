@@ -1,0 +1,25 @@
+p{
+    color:grey;
+    font-family: Arial;
+    font-size:16px;
+    margin:5px;
+}
+
+.email-input{
+    width: 400px;
+    border-width: 3px;
+    border: solid;
+    padding: 5px;
+    border-radius: 3px;
+    margin-bottom: 12px;
+}
+
+.agree{
+    background-color: rgb(68, 103, 218);
+    color:white;
+    padding: 15px 167px;
+    border:none;
+    border-radius: 32px;
+    font-size: 15px;
+    margin-top: 12px;
+}
