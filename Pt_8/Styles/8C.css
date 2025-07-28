@@ -5,3 +5,10 @@
     width: 350px;
     padding: 10px 100px 10px 5px;
 }
+
+.logo{
+    display: block;
+    width: 300px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
